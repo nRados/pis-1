@@ -9,6 +9,7 @@ namespace vj1_pis_Radosevic
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
